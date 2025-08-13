@@ -1,3 +1,4 @@
 # ignores the jupyter notebook checkpoint
 .ipynb_checkpoints/
 notebooks/PerceptronMultiClass.ipynb
+notebooks/ToDo.ipynb
